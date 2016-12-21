@@ -1,6 +1,8 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
-### 42  2016-12-16(Fri)
+
+
+### 43  2016-12-16(Fri)
 [@misparking](https://github.com/misparking)   
 
 1.[MPermission](https://github.com/misparking/MPermission)    
@@ -8,7 +10,9 @@ This is the  sharing weekly technical in the company.
 2.[Android librarys of 2016](http://www.androidchina.net/5922.html)    
 Android 函数库（2016版）/ Android librarys(2016) 
 
+[@fiskz](https://github.com/wfiskz)   
 
+1.[iOS弹幕效果](https://github.com/wfiskz/snaillove-sharing-weekly-technical/tree/master/com-danmu) 
 ### 42  2016-12-9(Fri)
 
 [@JackWaiting](http://www.jackwaiting.com)   
