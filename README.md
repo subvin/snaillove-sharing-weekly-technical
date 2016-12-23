@@ -2,8 +2,10 @@
 This is the  sharing weekly technical in the company.
 
 ### 44  2016-12-23(Fri)
+
 [@jarylan](https://github.com/jarylan)  
-[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
+
+1.[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
 
 ### 43  2016-12-16(Fri)
 [@misparking](https://github.com/misparking)   
@@ -826,25 +828,4 @@ Here is the open source project's address
 
 ####1.Supporting Multiple Screens
 
-Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the normal operation of the smartphone.
-
-Reference:  
-[http://www.misparking.com/android-multiple-screens-support.html](http://www.misparking.com/android-multiple-screens-support.html)
-
-***
-
-### #1 2015-08-14(Fri)
-
-***
-
-[@chenyunxuan](https://github.com/chenyunxuan)
-
-####1.Computer crawl
-
-Web crawler (also known as Web Spider, Web robot, in the middle of the FOAF community, more often referred to as page Chaser), is in accordance with certain rules, programs or scripts that automatically crawl the world wide web of information.Other less frequently used names are ants, automatic indexing, simulation program, or worm.
-
-Here is the open source project's address
-
-***
-
-
+Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the nor
