@@ -1,6 +1,9 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
+### 44  2016-12-23(Fri)
+[@jarylan](https://github.com/jarylan)
+[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
 
 ### 43  2016-12-16(Fri)
 [@misparking](https://github.com/misparking)   
