@@ -14,7 +14,7 @@ This is the  sharing weekly technical in the company.
 兼容 Android 6.0 的权限问题。/ compatible with Android 6.0 for permission.    
 2.[Android librarys of 2016](http://www.androidchina.net/5922.html)    
 Android 函数库（2016版）/ Android librarys(2016) 
-
+***
 [@fiskz](https://github.com/wfiskz)   
 
 1.[iOS弹幕效果](https://github.com/wfiskz/snaillove-sharing-weekly-technical/tree/master/com-danmu) 
