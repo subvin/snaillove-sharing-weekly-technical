@@ -2,10 +2,15 @@
 This is the  sharing weekly technical in the company.
 
 ### 44  2016-12-23(Fri)
+
+
 [@Equalr](https://github.com/Equalr)     
 
-1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri)) 
+1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
+***
+[@jarylan](https://github.com/jarylan)  
 
+1.[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
 
 ### 43  2016-12-16(Fri)
 [@misparking](https://github.com/misparking)   
@@ -14,7 +19,7 @@ This is the  sharing weekly technical in the company.
 兼容 Android 6.0 的权限问题。/ compatible with Android 6.0 for permission.    
 2.[Android librarys of 2016](http://www.androidchina.net/5922.html)    
 Android 函数库（2016版）/ Android librarys(2016) 
-
+***
 [@fiskz](https://github.com/wfiskz)   
 
 1.[iOS弹幕效果](https://github.com/wfiskz/snaillove-sharing-weekly-technical/tree/master/com-danmu) 
@@ -337,7 +342,7 @@ Reference:
 [代码地址：https://github.com/JackWaiting/Retrofit-MVP](https://github.com/JackWaiting/Retrofit-MVP)
 
 ### #23 2016-06-20(Mon)
->>>>>>> main/master
+
 
 About java multi thread  
 
@@ -419,7 +424,7 @@ Reference:
 3.[美图实例](http://jingyan.baidu.com/article/00a07f3892f26982d128dc6d.html)
 
 4.[Mac版破解教程](http://www.52mac.com/soft/7157-1-1.html)
->>>>>>> main/master
+
 
 ***
 
@@ -828,25 +833,4 @@ Here is the open source project's address
 
 ####1.Supporting Multiple Screens
 
-Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the normal operation of the smartphone.
-
-Reference:  
-[http://www.misparking.com/android-multiple-screens-support.html](http://www.misparking.com/android-multiple-screens-support.html)
-
-***
-
-### #1 2015-08-14(Fri)
-
-***
-
-[@chenyunxuan](https://github.com/chenyunxuan)
-
-####1.Computer crawl
-
-Web crawler (also known as Web Spider, Web robot, in the middle of the FOAF community, more often referred to as page Chaser), is in accordance with certain rules, programs or scripts that automatically crawl the world wide web of information.Other less frequently used names are ants, automatic indexing, simulation program, or worm.
-
-Here is the open source project's address
-
-***
-
-
+Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the nor
