@@ -3,6 +3,11 @@ This is the  sharing weekly technical in the company.
 
 ### 44  2016-12-23(Fri)
 
+
+[@Equalr](https://github.com/Equalr)     
+
+1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
+***
 [@jarylan](https://github.com/jarylan)  
 
 1.[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
@@ -337,7 +342,7 @@ Reference:
 [代码地址：https://github.com/JackWaiting/Retrofit-MVP](https://github.com/JackWaiting/Retrofit-MVP)
 
 ### #23 2016-06-20(Mon)
->>>>>>> main/master
+
 
 About java multi thread  
 
@@ -419,7 +424,7 @@ Reference:
 3.[美图实例](http://jingyan.baidu.com/article/00a07f3892f26982d128dc6d.html)
 
 4.[Mac版破解教程](http://www.52mac.com/soft/7157-1-1.html)
->>>>>>> main/master
+
 
 ***
 
