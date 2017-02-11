@@ -1,7 +1,63 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
-### #40  2016-11-25(Fri)  
+### 44  2016-12-23(Fri)
+[@luyonghe](https://github.com/luyonghe) 
+
+1.[Xcode断点调试详解](http://www.luyonghe.com/7.html)
+***
+[@Equalr](https://github.com/Equalr)     
+
+1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
+***
+[@jarylan](https://github.com/jarylan)  
+
+1.[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
+
+### 43  2016-12-16(Fri)
+[@misparking](https://github.com/misparking)   
+
+1.[MPermission](https://github.com/misparking/MPermission)    
+兼容 Android 6.0 的权限问题。/ compatible with Android 6.0 for permission.    
+2.[Android librarys of 2016](http://www.androidchina.net/5922.html)    
+Android 函数库（2016版）/ Android librarys(2016) 
+***
+[@fiskz](https://github.com/wfiskz)   
+
+1.[iOS弹幕效果](https://github.com/wfiskz/snaillove-sharing-weekly-technical/tree/master/com-danmu) 
+### 42  2016-12-9(Fri)
+
+[@JackWaiting](http://www.jackwaiting.com)   
+
+1.[GalleryFinal图片选择器](https://github.com/pengjianbo/GalleryFinal)      
+2.[picasso图片加载框架](https://github.com/square/picasso)           
+3.[DanmakuFlameMaster-开源弹幕引擎](https://github.com/Bilibili/DanmakuFlameMaster)
+
+### 41  2016-12-02(Fri) 
+
+[@iOnesmile](http://www.iOnesmile.com)   
+
+1.[Android command filter.](http://blog.csdn.net/u010134293/article/details/53482405)      
+2.[Android 6.0 Permissions.](http://blog.csdn.net/u010134293/article/details/53482430)     
+
+
+[@arrfu](http://www.arrfu.com)      
+
+There are several efficient ways to build a personal blog for free(免费搭建个人博客的几种高效方案):               
+link:[http://www.arrfu.com/blog-build-jekyll-hexo-wordpress.html](http://www.arrfu.com/blog-build-jekyll-hexo-wordpress.html)
+
+
+[@ifeegoo](https://github.com/ifeegoo)
+
+1.[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)  
+Note:针对中文和英文一起使用的时候，要养成一个良好的排版习惯，尤其是标点符号。  
+1.[Chinese Copywriting Guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)  
+Note:It's really important for you to get good habit of using Chinese and English together,also the punctuation.
+
+2.[汽车自动驾驶系统](https://github.com/commaai/openpilot)  
+2.[Car Self-Driving System](https://github.com/commaai/openpilot)
+
+### #40  2016-11-25(Fri)  
 1.Usage of api notification html5.(https://github.com/gristar/technical/tree/master/chat)  
 2.History of JavaScript.(https://github.com/gristar/technical/tree/master/history-of-javascript)  
 3.Usage of nodejs.(https://github.com/gristar/technical/tree/master/node)  
@@ -74,7 +130,7 @@ https://github.com/gavinkwoe/weapp-ide-crack
         NSString *babyBirthString = [NSString stringWithFormat:@" %@>",model.age];
         [attributeString addAttributes:@{NSFontAttributeName:SysFont(12),NSForegroundColorAttributeName:RGB(53, 98, 159)} range:NSMakeRange(mString.length -babyBirthString.length, babyBirthString.length)];
         //caculate the image location
-        CGSize size = [[NSString stringWithFormat:@"%@<",nameString] sizeWithWidth:300 withFont:20 fontName:FontName];
+        CGSize size = [[NSString stringWithFormat:@"%@",nameString] sizeWithWidth:300 withFont:20 fontName:FontName];
         UIImageView *sexImageView = [[UIImageView alloc] initWithFrame:CGRectMake(size.width - 5, 8, 10, 14)];
         NSString *sexImgString = [NSString stringWithFormat:@"%@",[model.baby_sex isEqualToString:@"f"]?@"ic_home_profile_female":@"ic_home_profile_male"];
         [sexImageView setImage:[UIImage imageNamed:sexImgString]];
@@ -126,7 +182,7 @@ Usage: Download, Import(File-->Import Setting-->) ,Select the downloaded jar pac
 6.[Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/) 
 
 ### #35  2016-08-29(Mon)
-Android中子线程真的不能刷新UI吗？
+Android Android中子线程真的不能刷新UI吗？
 
 Android 中try cath finally详解
 
@@ -144,8 +200,8 @@ About HUAWEI's agile development document
 
 ***
 ### #32 2016-08-29（Fri）   
-翻页效果解析:   
-主要代码：
+
+Primary Code (翻页效果解析主要代码)：
 
 <pre>
     //计算旋转角度angle,设定3D旋转
@@ -198,21 +254,16 @@ As a plug-ins management tools, Alcatraz is also a plug-in, you can install and 
 
 ***
 
-1.[Android优质信息源推荐](https://github.com/misparking/misparking.github.io)    
-
-2.[干货集中营](http://gank.io/)    
-每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频。
-
-
 ### #30 2016-07-22(Fri)    
 [@misparking](https://github.com/misparking)    
 
-1.[Android优质信息源推荐](https://github.com/misparking/misparking.github.io)    
+1.[Android Recommended quality resources(优质信息源推荐)](https://github.com/misparking/misparking.github.io)    
 
-2.[干货集中营](http://gank.io/)    
+2.[Valuable resources(干货集中营)](http://gank.io/)    
 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频。    
 3.        
-[Android开发技术周报](http://www.androidweekly.cn/)        汇集互联网上每周Android开发相关的技术文章、开源项目、开发工具、视频教程、Android设计教程、设计资源等。    
+[Android develop technical weekly(开发技术周报)](http://www.androidweekly.cn/)        
+汇集互联网上每周Android开发相关的技术文章、开源项目、开发工具、视频教程、Android设计教程、设计资源等。    
 [Android Weekly](http://androidweekly.net/)        
 Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.   
 
@@ -293,7 +344,7 @@ Reference:
 [代码地址：https://github.com/JackWaiting/Retrofit-MVP](https://github.com/JackWaiting/Retrofit-MVP)
 
 ### #23 2016-06-20(Mon)
->>>>>>> main/master
+
 
 About java multi thread  
 
@@ -375,7 +426,7 @@ Reference:
 3.[美图实例](http://jingyan.baidu.com/article/00a07f3892f26982d128dc6d.html)
 
 4.[Mac版破解教程](http://www.52mac.com/soft/7157-1-1.html)
->>>>>>> main/master
+
 
 ***
 
@@ -784,25 +835,4 @@ Here is the open source project's address
 
 ####1.Supporting Multiple Screens
 
-Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the normal operation of the smartphone.
-
-Reference:  
-[http://www.misparking.com/android-multiple-screens-support.html](http://www.misparking.com/android-multiple-screens-support.html)
-
-***
-
-### #1 2015-08-14(Fri)
-
-***
-
-[@chenyunxuan](https://github.com/chenyunxuan)
-
-####1.Computer crawl
-
-Web crawler (also known as Web Spider, Web robot, in the middle of the FOAF community, more often referred to as page Chaser), is in accordance with certain rules, programs or scripts that automatically crawl the world wide web of information.Other less frequently used names are ants, automatic indexing, simulation program, or worm.
-
-Here is the open source project's address
-
-***
-
-
+Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the nor
