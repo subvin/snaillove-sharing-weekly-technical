@@ -1,5 +1,10 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
+### 45  2017-02-11(Fri)
+[@lewanny](https://github.com/Lewanny)   
+Basic label part of HTML+CSS learning.   
+1.[HTML 中的标签](https://www.lewanny.com/HTML-CSS-learn-note-part01-label/)   
+2.[参考代码](https://github.com/Lewanny/HTML-CSS-Learning/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%A3%E7%A0%81/learning-note-part01-label.html)  
 
 ### 44  2016-12-23(Fri)
 [@luyonghe](https://github.com/luyonghe) 
