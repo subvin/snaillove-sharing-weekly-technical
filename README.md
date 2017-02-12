@@ -1,6 +1,12 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
+
+### 42  2017-02-10(xlc) 
+<hr>
+[@xlc](http://blog.csdn.net/xianglingchuan) <BR><BR>
+[HTTPS协议介绍](https://github.com/xianglingchuan/snaillove-sharing-weekly-technical/blob/master/2017-02-10/README.md)  
+
 ### 44  2016-12-23(Fri)
 [@luyonghe](https://github.com/luyonghe) 
 
