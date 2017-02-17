@@ -5,7 +5,7 @@ This is the  sharing weekly technical in the company.
 [@JauYang](https://github.com/JauYang)     
 #### 使用HBuilder搭建 web app <简信>（一）
 * [HBuilder开发工具官网](http://www.dcloud.io/)   
-* [源码传送门](https://github.com/JauYang/Jxin/Jxin) 
+* [源码传送门](https://github.com/JauYang/Jxin) 
 
 ### 46  2017-02-11(Fri)
 [@lewanny](https://github.com/Lewanny)   
