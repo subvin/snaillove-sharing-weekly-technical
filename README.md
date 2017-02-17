@@ -1,5 +1,18 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
+
+### 47  2017-02-17(Fri)
+[@JauYang](https://github.com/JauYang)     
+使用HBuilder搭建 web app <简信>（一）
+1.[HBuilder开发工具官网](http://www.dcloud.io/)   
+2.[源码传送门](https://github.com/JauYang/Jxin/Jxin) 
+部分运行截图：
+![image](https://github.com/JauYang/Jxin/blob/master/Images/1.jpg) 
+![image](https://github.com/JauYang/Jxin/blob/master/Images/2.jpg) 
+![image](https://github.com/JauYang/Jxin/blob/master/Images/3.jpg) 
+![image](https://github.com/JauYang/Jxin/blob/master/Images/4.jpg) 
+![image](https://github.com/JauYang/Jxin/blob/master/Images/5.jpg) 
+
 ### 46  2017-02-11(Fri)
 [@lewanny](https://github.com/Lewanny)   
 Basic label part of HTML+CSS learning.   
@@ -17,7 +30,7 @@ Basic label part of HTML+CSS learning.
 
 1.[Xcode断点调试详解](http://www.luyonghe.com/7.html)
 ***
-[@Equalr](https://github.com/Equalr)     
+[@JauYang](https://github.com/JauYang)     
 
 1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
 ***
