@@ -1,5 +1,9 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
+### 47  2017-03-3(Mri)
+[@JXYZH11](http://blog.csdn.net/JXYZH11)   
+[搭建maven私服](http://blog.csdn.net/JXYZH11/article/details/60164899) 
+
 ### 46  2017-02-11(Fri)
 [@lewanny](https://github.com/Lewanny)   
 Basic label part of HTML+CSS learning.   
