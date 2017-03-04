@@ -1,29 +1,162 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
+### 47 2017-03-04 （Fri）
+[@subvin](http://www.subvin.com)    
+[iOS Basic Keychain use](http://subvin.com/ios-keychain-user)
+
+
+### 46  2017-02-11(Fri)
+[@lewanny](https://github.com/Lewanny)   
+Basic label part of HTML+CSS learning.   
+1.[HTML 中的标签](https://www.lewanny.com/HTML-CSS-learn-note-part01-label/)   
+2.[参考代码](https://github.com/Lewanny/HTML-CSS-Learning/blob/master/%E5%AD%A6%E4%B9%A0%E4%BB%A3%E7%A0%81/learning-note-part01-label.html)  
+
+
+### 45  2017-02-10(xlc) 
+<hr>
+[@xlc](http://blog.csdn.net/xianglingchuan) <BR><BR>
+[HTTPS协议介绍](https://github.com/xianglingchuan/snaillove-sharing-weekly-technical/blob/master/2017-02-10/README.md)  
+
+### 44  2016-12-23(Fri)
+[@luyonghe](https://github.com/luyonghe) 
+
+1.[Xcode断点调试详解](http://www.luyonghe.com/7.html)
+***
+[@Equalr](https://github.com/Equalr)     
+
+1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
+***
+[@jarylan](https://github.com/jarylan)  
+
+1.[Android Studio NDK 开发与调试（生成 .so 文件）](http://www.jianshu.com/p/e7c2c63fa70e)
+
+### 43  2016-12-16(Fri)
+[@misparking](https://github.com/misparking)   
+
+1.[MPermission](https://github.com/misparking/MPermission)    
+兼容 Android 6.0 的权限问题。/ compatible with Android 6.0 for permission.    
+2.[Android librarys of 2016](http://www.androidchina.net/5922.html)    
+Android 函数库（2016版）/ Android librarys(2016) 
+***
+[@fiskz](https://github.com/wfiskz)   
+
+1.[iOS弹幕效果](https://github.com/wfiskz/snaillove-sharing-weekly-technical/tree/master/com-danmu) 
+### 42  2016-12-9(Fri)
+
+[@JackWaiting](http://www.jackwaiting.com)   
+
+1.[GalleryFinal图片选择器](https://github.com/pengjianbo/GalleryFinal)      
+2.[picasso图片加载框架](https://github.com/square/picasso)           
+3.[DanmakuFlameMaster-开源弹幕引擎](https://github.com/Bilibili/DanmakuFlameMaster)
+
+### 41  2016-12-02(Fri) 
+
+[@iOnesmile](http://www.iOnesmile.com)   
+
+1.[Android command filter.](http://blog.csdn.net/u010134293/article/details/53482405)      
+2.[Android 6.0 Permissions.](http://blog.csdn.net/u010134293/article/details/53482430)     
+
+
+[@arrfu](http://www.arrfu.com)      
+
+There are several efficient ways to build a personal blog for free(免费搭建个人博客的几种高效方案):               
+link:[http://www.arrfu.com/blog-build-jekyll-hexo-wordpress.html](http://www.arrfu.com/blog-build-jekyll-hexo-wordpress.html)
+
+
+[@ifeegoo](https://github.com/ifeegoo)
+
+1.[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)  
+Note:针对中文和英文一起使用的时候，要养成一个良好的排版习惯，尤其是标点符号。  
+1.[Chinese Copywriting Guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)  
+Note:It's really important for you to get good habit of using Chinese and English together,also the punctuation.
+
+2.[汽车自动驾驶系统](https://github.com/commaai/openpilot)  
+2.[Car Self-Driving System](https://github.com/commaai/openpilot)
+
+### #40  2016-11-25(Fri)  
+1.Usage of api notification html5.(https://github.com/gristar/technical/tree/master/chat)  
+2.History of JavaScript.(https://github.com/gristar/technical/tree/master/history-of-javascript)  
+3.Usage of nodejs.(https://github.com/gristar/technical/tree/master/node)  
+
+### #39 2016-11-04（Fri）
+
+[@ifeegoo](https://github.com/ifeegoo)
+
+1.[How to get a better rest?](https://www.phodal.com/blog/how-to-improve-performance-by-better-rest/)   
+Author [phodal](http://github.com/phodal)   
+[@ThoughtWorks] (https://www.thoughtworks.com/)  
+[Agile Project Management](http://www.ximalaya.com/3743751/album/215052)
+
+2.How to write?  
+1° .txt .doc/.docx  
+2° [Wiz Note](http://www.wiz.cn) [Evernote](http://www.evernote.com) [Youdao Note](http://note.youdao.com)  
+3° [myBase](http://wjjsoft.com/mybase.html)  
+4° [CSDN](http://blog.csdn.net) [Jianshu](http://www.jianshu.com) [Cnblogs](http://www.cnblogs.com)  
+5° [Wordpress](http://www.ifeegoo.com) [Github + Jekyll](http://www.fiskz.com)  
+6° [Gitbook](http://www.gitbook.com)
+
+3.Listen English podcast  
+Note:The best way for you to listen the podcast above is podcast on iOS，and for Android platform,I recommended you that BeyondPod/DoggCatcher/PocketCast/podcast addict and so on.
+
+for Android Developers  
+1°.[Fragmented](http://fragmentedpodcast.com/)  
+2°.TheContext #androidev  
+
+for iOS Developers  
+1°.[The raywenderlich.com Podcast](https://www.raywenderlich.com/rwpodcast)  
+2°.[iOS Bytes](https://iosbytes.codeschool.com/)
+
+for Designers  
+1°.Design Details
+
+[Some list of podcast](https://www.podcastchart.com/)
+
+### #38 2016-10-08（Tue）
+[@Lewanny](https://github.com/Lewanny)
+
+1.Carthage is intended to be the simplest way to add frameworks to your Cocoa application.
+
+2.Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
+
+[Carthage](https://github.com/Carthage/Carthage)
+
 ### #37 2016-09-24（Fri）
-1、iOS 侧滑控件 [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)   
-2、添加图片的多样式 Label的实现:
+
+[@ifeegoo](https://github.com/ifeegoo)
+
+1.WeChat Web App Analysis
+
+[Part A](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974082&idx=1&sn=47c7f672caf629cd846e315b8df2b1c5&scene=1&srcid=0923RZmIt0rRQkY89m71LTTe#rd)  
+[Part B](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=1&srcid=0923zLF1ZvHFJSqjypKBDZdL#rd)  
+https://github.com/gavinkwoe/weapp-ide-crack
+
+2.[Cross Platform App Development](http://fex.baidu.com/blog/2015/05/cross-mobile/)
+
+### #37 2016-09-24（Fri）
+1、iOS Slide Menu Widget[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)   
+ 
+2、Multi-modality UILabel Effectuation Accompany with Image:
 <pre>
       NSMutableString *mString = [[NSMutableString alloc] initWithString:[NSString stringWithFormat:@"%@ <   %@>",model.baby_name,model.age]];
         NSMutableAttributedString *attributeString = [[NSMutableAttributedString alloc]initWithString:mString];
         NSString *nameString = [NSString stringWithFormat:@"%@ ",model.baby_name];
-        //  计算特定名字长度以及颜色
+        //  caculate the size of special words
         [attributeString addAttributes:@{NSFontAttributeName:SysFont(20),NSForegroundColorAttributeName:RGB(53, 98, 159)} range:NSMakeRange(0, nameString.length)];
         [attributeString addAttributes:@{NSFontAttributeName:SysFont(12),NSForegroundColorAttributeName:RGB(53, 98, 159)} range:NSMakeRange(nameString.length, 1)];
         NSString *babyBirthString = [NSString stringWithFormat:@" %@>",model.age];
         [attributeString addAttributes:@{NSFontAttributeName:SysFont(12),NSForegroundColorAttributeName:RGB(53, 98, 159)} range:NSMakeRange(mString.length -babyBirthString.length, babyBirthString.length)];
-        //计算图片的位置
-        CGSize size = [[NSString stringWithFormat:@"%@<",nameString] sizeWithWidth:300 withFont:20 fontName:FontName];
+        //caculate the image location
+        CGSize size = [[NSString stringWithFormat:@"%@",nameString] sizeWithWidth:300 withFont:20 fontName:FontName];
         UIImageView *sexImageView = [[UIImageView alloc] initWithFrame:CGRectMake(size.width - 5, 8, 10, 14)];
         NSString *sexImgString = [NSString stringWithFormat:@"%@",[model.baby_sex isEqualToString:@"f"]?@"ic_home_profile_female":@"ic_home_profile_male"];
         [sexImageView setImage:[UIImage imageNamed:sexImgString]];
-        // 将图片动态置于该位置上。
+        // locate the image in director location。
         [_nameLabel addSubview:sexImageView];
         _nameLabel.attributedText = attributeString;
 </pre>
 
-3、按钮飞开旋转动画:
+3、Flip-Rotation Menu Effection :   
 <pre>
 		[self.subviews enumerateObjectsUsingBlock:^(__kindof UIView * _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
         if ([obj isKindOfClass:[UIButton class]] && obj.tag >= 100) {
@@ -44,8 +177,7 @@ This is the  sharing weekly technical in the company.
     }];
 </pre>
 
-4、项目细节讨论。
-
+4、Communicated Project Detail 。
 ### #37  2016-09-24(Fri)
 1. Quick Search Tool [Everything](http://www.voidtools.com/)
 2. pAndroid Studio Color Themes](http://color-themes.com/?view=index)
@@ -67,7 +199,7 @@ Usage: Download, Import(File-->Import Setting-->) ,Select the downloaded jar pac
 6.[Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/) 
 
 ### #35  2016-08-29(Mon)
-Android中子线程真的不能刷新UI吗？
+Android Android中子线程真的不能刷新UI吗？
 
 Android 中try cath finally详解
 
@@ -85,8 +217,8 @@ About HUAWEI's agile development document
 
 ***
 ### #32 2016-08-29（Fri）   
-翻页效果解析:   
-主要代码：
+
+Primary Code (翻页效果解析主要代码)：
 
 <pre>
     //计算旋转角度angle,设定3D旋转
@@ -139,21 +271,16 @@ As a plug-ins management tools, Alcatraz is also a plug-in, you can install and 
 
 ***
 
-1.[Android优质信息源推荐](https://github.com/misparking/misparking.github.io)    
-
-2.[干货集中营](http://gank.io/)    
-每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频。
-
-
 ### #30 2016-07-22(Fri)    
 [@misparking](https://github.com/misparking)    
 
-1.[Android优质信息源推荐](https://github.com/misparking/misparking.github.io)    
+1.[Android Recommended quality resources(优质信息源推荐)](https://github.com/misparking/misparking.github.io)    
 
-2.[干货集中营](http://gank.io/)    
+2.[Valuable resources(干货集中营)](http://gank.io/)    
 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频。    
 3.        
-[Android开发技术周报](http://www.androidweekly.cn/)        汇集互联网上每周Android开发相关的技术文章、开源项目、开发工具、视频教程、Android设计教程、设计资源等。    
+[Android develop technical weekly(开发技术周报)](http://www.androidweekly.cn/)        
+汇集互联网上每周Android开发相关的技术文章、开源项目、开发工具、视频教程、Android设计教程、设计资源等。    
 [Android Weekly](http://androidweekly.net/)        
 Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.   
 
@@ -234,7 +361,7 @@ Reference:
 [代码地址：https://github.com/JackWaiting/Retrofit-MVP](https://github.com/JackWaiting/Retrofit-MVP)
 
 ### #23 2016-06-20(Mon)
->>>>>>> main/master
+
 
 About java multi thread  
 
@@ -316,7 +443,7 @@ Reference:
 3.[美图实例](http://jingyan.baidu.com/article/00a07f3892f26982d128dc6d.html)
 
 4.[Mac版破解教程](http://www.52mac.com/soft/7157-1-1.html)
->>>>>>> main/master
+
 
 ***
 
@@ -725,25 +852,4 @@ Here is the open source project's address
 
 ####1.Supporting Multiple Screens
 
-Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the normal operation of the smartphone.
-
-Reference:  
-[http://www.misparking.com/android-multiple-screens-support.html](http://www.misparking.com/android-multiple-screens-support.html)
-
-***
-
-### #1 2015-08-14(Fri)
-
-***
-
-[@chenyunxuan](https://github.com/chenyunxuan)
-
-####1.Computer crawl
-
-Web crawler (also known as Web Spider, Web robot, in the middle of the FOAF community, more often referred to as page Chaser), is in accordance with certain rules, programs or scripts that automatically crawl the world wide web of information.Other less frequently used names are ants, automatic indexing, simulation program, or worm.
-
-Here is the open source project's address
-
-***
-
-
+Considerating of  the Android screen fragmentation serious , each Android smartphone  screen has a fixed initial density, these Numbers are 120, 160, 240, 320 and 480. We are known as the "density" system.Android to zoom ratio of interface elements on the basis of density is system, not the actual density.So we just try to fit the density, can be in most of the nor
