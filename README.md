@@ -1,11 +1,17 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
+### 48  2017-03-3(Mri)
+[@JXYZH11](http://blog.csdn.net/JXYZH11)   
+[搭建maven私服](http://blog.csdn.net/JXYZH11/article/details/60164899) 
+
+
 ### 47  2017-02-17(Fri)
 [@JauYang](https://github.com/JauYang)     
 #### 使用HBuilder搭建 web app <简信>（一）
 * [HBuilder开发工具官网](http://www.dcloud.io/)   
 * [源码传送门](https://github.com/JauYang/Jxin) 
+
 
 ### 46  2017-02-11(Fri)
 [@lewanny](https://github.com/Lewanny)   
