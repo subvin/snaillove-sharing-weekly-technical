@@ -1,9 +1,21 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
-### 47 2017-03-04 （Fri）
+
+### 49 2017-03-03 （Fri）
 [@subvin](http://www.subvin.com)    
 [iOS Basic Keychain use](http://subvin.com/ios-keychain-user)
+
+### 48  2017-03-03(Mri)
+[@JXYZH11](http://blog.csdn.net/JXYZH11)   
+[搭建maven私服](http://blog.csdn.net/JXYZH11/article/details/60164899) 
+
+
+### 47  2017-02-17(Fri)
+[@JauYang](https://github.com/JauYang)     
+#### 使用HBuilder搭建 web app <简信>（一）
+* [HBuilder开发工具官网](http://www.dcloud.io/)   
+* [源码传送门](https://github.com/JauYang/Jxin) 
 
 
 ### 46  2017-02-11(Fri)
@@ -23,7 +35,7 @@ Basic label part of HTML+CSS learning.
 
 1.[Xcode断点调试详解](http://www.luyonghe.com/7.html)
 ***
-[@Equalr](https://github.com/Equalr)     
+[@JauYang](https://github.com/JauYang)     
 
 1.[《简信》](https://github.com/Equalr/snaillove-sharing-weekly-technical/tree/master/2016-12-23(Fri))     
 ***
