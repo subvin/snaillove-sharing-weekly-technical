@@ -1,6 +1,10 @@
 # snaillove-sharing-weekly-technical
 This is the  sharing weekly technical in the company.
 
+### 50 2017-07-07 （Fri）
+[@subvin](http://www.subvin.com)    
+[iOS Basic Using of Fackbook POP Animation Engine](https://github.com/subvin/popping)
+
 
 ### 49 2017-03-03 （Fri）
 [@subvin](http://www.subvin.com)    
